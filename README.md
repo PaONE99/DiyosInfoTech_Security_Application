@@ -1,4 +1,7 @@
 # DiyosInfoTech_Security_Application
+
+Application Technologys Used Spring boot + MySQL
+
  This is Sample Security Application using JWT Token
 
  Step 1
